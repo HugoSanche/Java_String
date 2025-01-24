@@ -5,6 +5,9 @@ public class TestString{
         printInformation(name);
        // printInformation("");
        // printInformation(" ");
+        Equals equals=new Equals();
+
+
     }
     public static void printInformation(String string){
         int lenght=string.length();
